@@ -1,10 +1,9 @@
 package puppy
 
-
-func Bark(){
+func Bark() string {
 	return "Woof!"
 }
 
-func Barks(){
+func Barks() string {
 	return "Woof! Woof!! Woof!!"
 }
